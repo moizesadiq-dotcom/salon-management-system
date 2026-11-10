@@ -3,7 +3,7 @@
   "version": 2,
   "functions": {
     "api/index.php": {
-      "runtime": "vercel-php@8.x"
+      "runtime": "vercel-php@8.2"
     }
   },
   "routes": [
